@@ -1,0 +1,23 @@
+.mainContainer{
+    background-color: lightgrey;
+}
+
+.grid{
+    background-color: lightslategray;
+    margin: 0;
+}
+
+.cardCol{
+    padding-top: 80px;
+}
+.card{
+    height: 500px;
+}
+
+.cardBody{
+    background-color: lightyellow;
+}
+
+.image{
+    height: 659px;
+}
