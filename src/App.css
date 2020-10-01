@@ -1,8 +1,8 @@
 :root{
-  background-color: lightgray;
+  background-color: lightSlategray;
 }
 
-#leftbox { 
+/* #leftbox { 
   float:left;  
   padding-left: 60px;
   padding-top: 80px;
@@ -11,4 +11,4 @@
 #middlebox{ 
   float:left;  
   width:70%; 
-}
+} */

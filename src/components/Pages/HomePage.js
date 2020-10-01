@@ -4,9 +4,9 @@ import { Col } from 'react-bootstrap'
 import { Row } from 'react-bootstrap'
 import { Image } from 'react-bootstrap'
 import { Card } from 'react-bootstrap'
-import './HomePageGrid.css'
+import './HomePage.css'
 
-function HomePageGrid() {
+function HomePage() {
     return (
         <div className="mainContainer">
             <Container className="grid" fluid>
@@ -33,4 +33,4 @@ function HomePageGrid() {
     )
 }
 
-export default HomePageGrid
+export default HomePage
